@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dkottuppally1
+- 👋 Hi, I’m Derek Kottuppally :)
 # 💫 About Me:
 Passionate GT CS Student<br><br>Specialization: Information/Internetworks and Media Threads.<br>2D Dungeon Crawler Game:<br>Gameplay: Navigate dungeons, combat enemies, collect powerups, and find room exits.<br>Mechanics: Fixed viewpoint, health system, and enemy challenges.<br>Objective: Survive each room and reach exits; game ends if health is lost.<br>Features: High score leaderboard.<br>Technologies Used: Java, Android Studio for UI design.<br>Repository Link: [URL to project repository].<br><br>Quote of the Day Website:<br>Functionality: Daily display of inspirational quotes.<br>Features: User customization, archive browsing, responsive design.<br>Technologies Used: HTML, CSS, JavaScript, Node.js<br>Skills Developed: Web development, API integration, UI/UX design.<br>Repository Link: [URL to project repository].
 

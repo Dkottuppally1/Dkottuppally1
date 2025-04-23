@@ -1,6 +1,31 @@
 - 👋 Hi, I’m Derek Kottuppally :)
 # 💫 About Me:
-Passionate GT CS Student<br><br>Specialization: Information/Internetworks and Media Threads.<br>2D Dungeon Crawler Game:<br>Gameplay: Navigate dungeons, combat enemies, collect powerups, and find room exits.<br>Mechanics: Fixed viewpoint, health system, and enemy challenges.<br>Objective: Survive each room and reach exits; game ends if health is lost.<br>Features: High score leaderboard.<br>Technologies Used: Java, Android Studio for UI design.<br>Repository Link: [URL to project repository].<br><br>Quote of the Day Website:<br>Functionality: Daily display of inspirational quotes.<br>Features: User customization, archive browsing, responsive design.<br>Technologies Used: HTML, CSS, JavaScript, Node.js<br>Skills Developed: Web development, API integration, UI/UX design.<br>Repository Link: [URL to project repository].
+Passionate GT CS Student<br><br>Specialization: Information/Internetworks and Media Threads.## 🧠 Projects
+
+### 🚀 2D Dungeon Crawler Game
+- **Description**: Navigate dungeons, combat enemies, collect powerups, and find room exits.
+- **Features**: Fixed viewpoint, Health system, Enemy challenges, High score leaderboard
+- **Tech Stack**: Java, Android Studio
+- **🔗 Repository**: [View Project](URL-to-dungeon-crawler-repo)
+
+### 🚀 Quote of the Day Website
+- **Description**: Displays daily inspirational quotes.
+- **Features**: User customization, Archive browsing, Responsive design
+- **Tech Stack**: HTML, CSS, JavaScript, Node.js
+- **🔗 Repository**: [View Project](URL-to-quote-website-repo)
+
+### 🚀 Credit Card Reward Points Optimizer
+- **Description**: Helps users calculate and maximize reward points based on purchase category and credit card type.
+- **Features**: Custom input for purchase, Reward calculation, Credit card category matching
+- **Tech Stack**: React, Node.js, MySQL, Plaid API
+- **🔗 Repository**: [View Project](URL-to-credit-rewards-app)
+
+### 🚀 CS Internship Experience Database
+- **Description**: A peer-driven, filterable platform for GT students to share and explore internship experiences.
+- **Features**: Filter by company, tech stack, location, Student/admin roles, Profile creation and moderation
+- **Tech Stack**: Flask, MySQL, Bootstrap
+- **🔗 Repository**: [View Project](URL-to-internship-database-repo)
+
 
 
 ## 🌐 Socials:

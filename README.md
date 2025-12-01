@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Derek Kottuppally :)
 # 💫 About Me:
 Passionate GT CS Student<br><br>Specialization: Information/Internetworks and Media Threads.## 🧠 Projects]
-### 🚀 AI Karaoke Vocal/Instrumental Separator
 
-Description: Upload any song and automatically generate high-quality karaoke tracks by separating vocals from instrumentals using advanced ML models.
-Features: Vocal removal, Instrumental extraction, MP3 export, FastAPI backend
-Tech Stack: Python, FastAPI, Demucs, PyTorch, FFmpeg
-🔗 Repository: https://github.com/Dkottuppally1/ai-karaoke
+### 🚀 AI Karaoke Vocal/Instrumental Separator
+- **Description**: Upload any song and automatically generate high-quality karaoke tracks by separating vocals from instrumentals using advanced ML models.
+- **Features**: Vocal removal, Instrumental extraction, MP3 export, FastAPI backend
+- **Tech Stack**: Python, FastAPI, Demucs, PyTorch, FFmpeg
+- **🔗 Repository**: https://github.com/Dkottuppally1/ai-karaoke
 
 ### 🚀 2D Dungeon Crawler Game
 - **Description**: Navigate dungeons, combat enemies, collect powerups, and find room exits.

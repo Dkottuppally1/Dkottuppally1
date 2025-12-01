@@ -1,18 +1,18 @@
 - 👋 Hi, I’m Derek Kottuppally :)
 # 💫 About Me:
-Passionate GT CS Student<br><br>Specialization: Information/Internetworks and Media Threads.## 🧠 Projects
+Passionate GT CS Student<br><br>Specialization: Information/Internetworks and Media Threads.## 🧠 Projects]
+### 🚀 AI Karaoke Vocal/Instrumental Separator
+
+Description: Upload any song and automatically generate high-quality karaoke tracks by separating vocals from instrumentals using advanced ML models.
+Features: Vocal removal, Instrumental extraction, MP3 export, FastAPI backend
+Tech Stack: Python, FastAPI, Demucs, PyTorch, FFmpeg
+🔗 Repository: https://github.com/Dkottuppally1/ai-karaoke
 
 ### 🚀 2D Dungeon Crawler Game
 - **Description**: Navigate dungeons, combat enemies, collect powerups, and find room exits.
 - **Features**: Fixed viewpoint, Health system, Enemy challenges, High score leaderboard
 - **Tech Stack**: Java, Android Studio
 - **🔗 Repository**: [View Project](URL-to-dungeon-crawler-repo)
-
-### 🚀 Quote of the Day Website
-- **Description**: Displays daily inspirational quotes.
-- **Features**: User customization, Archive browsing, Responsive design
-- **Tech Stack**: HTML, CSS, JavaScript, Node.js
-- **🔗 Repository**: [View Project](URL-to-quote-website-repo)
 
 ### 🚀 Credit Card Reward Points Optimizer
 - **Description**: Helps users calculate and maximize reward points based on purchase category and credit card type.
